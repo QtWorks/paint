@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Icons/bcolor_icon.bmp</file>
+        <file>Icons/bcolor_icon.png</file>
+        <file>Icons/bitmap.bmp</file>
+        <file>Icons/clearall_icon.bmp</file>
+        <file>Icons/clearall_icon.png</file>
+        <file>Icons/eraser_icon.bmp</file>
+        <file>Icons/eraser_icon.png</file>
+        <file>Icons/fcolor_icon.bmp</file>
+        <file>Icons/fcolor_icon.png</file>
+        <file>Icons/line_icon.bmp</file>
+        <file>Icons/line_icon.png</file>
+        <file>Icons/new_icon.bmp</file>
+        <file>Icons/new_icon.png</file>
+        <file>Icons/open_icon.bmp</file>
+        <file>Icons/open_icon.png</file>
+        <file>Icons/pen_icon.bmp</file>
+        <file>Icons/pen_icon.png</file>
+        <file>Icons/rect_icon.bmp</file>
+        <file>Icons/rect_icon.png</file>
+        <file>Icons/redo_icon.bmp</file>
+        <file>Icons/redo_icon.png</file>
+        <file>Icons/resize_icon.bmp</file>
+        <file>Icons/resize_icon.png</file>
+        <file>Icons/save_icon.bmp</file>
+        <file>Icons/save_icon.png</file>
+        <file>Icons/undo_icon.bmp</file>
+        <file>Icons/undo_icon.png</file>
+    </qresource>
+</RCC>
